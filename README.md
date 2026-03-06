@@ -19,7 +19,7 @@ Un juego interactivo de memoria con imágenes generadas por IA, completamente pe
 
 ## 🚀 Demo en Vivo
 
-[Ver Demo]([https://tu-usuario.github.io/juego-parejas](https://juanrivera126.github.io/Memory-with-Pollinations/juego-parejas-Fruits.html)) _(Actualiza con tu URL)_
+[Ver Demo](https://juanrivera126.github.io/Memory-with-Pollinations/juego-parejas-Fruits.html) _(Actualiza con tu URL)_
 
 ## 🎯 Cómo Usar
 
@@ -147,8 +147,7 @@ Diseñado con ❤️ usando las API de [Pollinations](https://pollinations.ai)
 
 ## 📞 Contacto
 
-- GitHub: [@tu-usuario]([https://github.com/tu-usuario](https://github.com/Juanrivera126))
-- Email: tu-email@ejemplo.com
+- GitHub: [@tu-usuario](https://github.com/Juanrivera126)
 
 ---
 
